@@ -290,5 +290,3 @@ var _initialiseProps = function _initialiseProps() {
     });
   };
 };
-
-exports.default = NumberInput;
