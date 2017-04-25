@@ -1,9 +1,5 @@
 'use strict';
 
-Object.defineProperty(exports, '__esModule', {
-  value: true,
-});
-
 var _extends = Object.assign ||
   function(target) {
     for (var i = 1; i < arguments.length; i++) {
